@@ -1,4 +1,4 @@
-package javabook2.ch05.EnumExample;
+package javabook2.ch05.sec_enum;
 
 public class SeasonExample {
 	public static void main(String[] args) {
